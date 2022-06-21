@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\hnet\cs-winform\lv1\kiem tra\21thang6_1h\bin\Debug\21thang6_1h.exe.config
+C:\Users\ASUS\Desktop\hnet\cs-winform\lv1\kiem tra\21thang6_1h\bin\Debug\21thang6_1h.exe
+C:\Users\ASUS\Desktop\hnet\cs-winform\lv1\kiem tra\21thang6_1h\bin\Debug\21thang6_1h.pdb
+C:\Users\ASUS\Desktop\hnet\cs-winform\lv1\kiem tra\21thang6_1h\obj\Debug\21thang6_1h.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\hnet\cs-winform\lv1\kiem tra\21thang6_1h\obj\Debug\21thang6_1h.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\hnet\cs-winform\lv1\kiem tra\21thang6_1h\obj\Debug\_21thang6_1h.Form.resources
+C:\Users\ASUS\Desktop\hnet\cs-winform\lv1\kiem tra\21thang6_1h\obj\Debug\_21thang6_1h.Properties.Resources.resources
+C:\Users\ASUS\Desktop\hnet\cs-winform\lv1\kiem tra\21thang6_1h\obj\Debug\21thang6_1h.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\hnet\cs-winform\lv1\kiem tra\21thang6_1h\obj\Debug\21thang6_1h.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\hnet\cs-winform\lv1\kiem tra\21thang6_1h\obj\Debug\21thang6_1h.exe
+C:\Users\ASUS\Desktop\hnet\cs-winform\lv1\kiem tra\21thang6_1h\obj\Debug\21thang6_1h.pdb
